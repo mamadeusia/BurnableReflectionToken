@@ -10,6 +10,7 @@
     "prettier-fix": "prettier '**/*.{json,sol,md}' --write",
     "eslint-check": "eslint '**/*.js'",
     "eslint-fix": "eslint '**/*.js' --fix",
+    "test": "truffle test",
     "test-coverage": "truffle run coverage --file='test/*.js' --network development",
     "remixd": "remixd -s $INIT_CWD --remix-ide https://remix.ethereum.org"
   },

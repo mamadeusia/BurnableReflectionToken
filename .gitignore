@@ -45,4 +45,7 @@ package-lock.json
 # and uncomment the following lines
 # .pnp.*
 
+.vscode/
+.ipynb_checkpoints/
+
 # End of https://www.toptal.com/developers/gitignore/api/yarn,soliditytruffle

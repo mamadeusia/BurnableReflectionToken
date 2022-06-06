@@ -3,7 +3,7 @@
  * Copyright © 2020 reflect.finance. ALL RIGHTS RESERVED.
  */
 
-pragma solidity 0.8.11;
+pragma solidity ^0.8.0;
 
 import "@openzeppelin/contracts/utils/Context.sol";
 import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
